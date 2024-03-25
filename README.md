@@ -38,3 +38,6 @@ openai에서 제공하는 ChapGPT-API 사용하여 다국어 번역기 개발하
 - Flask
 ### 2. Frontend code
 - HTML
+### 3. 코드 흐름
+![image](https://github.com/jsb17/ChatGPT-API/assets/71314558/034e34e3-eda3-46da-8780-e01042142cbe)
+
